@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋, I’m Sharad![image](https://user-images.githubusercontent.com/64432661/232253605-68482160-8437-43bd-98cd-32613496af97.png)
+DevOps and Cloud Engineer
 
 <!--
 **Sharad-Chandra/Sharad-Chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💞️ I'm interested in automation, microservices, distributed systems, and cloud modernization
+🌱 I'm always learning something new.
+📫 reach me at sharadchandragodavarthi@gmail.com
+
+Languages and Tools:
+AWS Linux Git Bash Terraform Jenkins Python ELasticSearch Kubernetes MYSQL DB Nginx
