@@ -10,7 +10,6 @@
 
 - 📫 How to reach me: sharadchandra636@gmail.com  
   
-
 <br/>  
 
 <h3 align="left">Languages and Tools:</h3>
